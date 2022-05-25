@@ -44,3 +44,9 @@ label{
   height: 350;
   width: 350;
 }
+#result_gesture_name{
+color: darkgreen;
+}
+#update_gesture{
+  size: 100px;
+}
